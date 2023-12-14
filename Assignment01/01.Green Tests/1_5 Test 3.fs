@@ -1,0 +1,2 @@
+printfn "%s" (dup "dig ")
+

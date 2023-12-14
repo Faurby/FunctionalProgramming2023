@@ -1,0 +1,1 @@
+printfn "%d" (minutes (22, 10))

@@ -1,0 +1,1 @@
+printfn "%d" (bin (4, 2))

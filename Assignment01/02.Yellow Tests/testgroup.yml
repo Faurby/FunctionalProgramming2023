@@ -1,0 +1,3 @@
+name: Yellow Tests
+onTestGroupFailure: Continue
+feedback: Full
